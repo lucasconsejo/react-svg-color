@@ -1,7 +1,7 @@
 ## react-svg-color
 
 [![Version](https://img.shields.io/npm/v/react-svg-color.svg)](https://www.npmjs.com/package/react-svg-color)
-<!-- [![NPM](https://img.shields.io/npm/dm/react-svg-color.svg)](https://www.npmjs.com/package/react-svg-color) -->
+[![NPM](https://img.shields.io/npm/dm/react-svg-color.svg)](https://www.npmjs.com/package/react-svg-color)
 
 `react-svg-color` allows you to change any color in an svg file.
 
