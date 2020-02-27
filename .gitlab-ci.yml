@@ -1,0 +1,20 @@
+image: "gitlab/dind"
+
+cache:
+  paths:
+    - node_modules/
+
+stages:
+  - deploy
+
+publish:
+  stage: deploy
+  image: "node:alpine"
+  only:
+    - master
+  script:
+    - npm config set //registry.npmjs.org/:_authToken ${NPM_TOKEN}
+    - npm publish
+  artifacts:
+    paths:
+      - node_modules/

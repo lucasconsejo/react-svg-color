@@ -1,0 +1,29 @@
+{
+  "name": "react-svg-color",
+  "version": "1.0.0",
+  "description": "Replace any colors from a svg file",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasconsejo/react-svg-color.git"
+  },
+  "keywords": [
+    "react",
+    "react-dom",
+    "svg"
+  ],
+  "author": "Lucas Consejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasconsejo/react-svg-color/issues"
+  },
+  "homepage": "https://github.com/lucasconsejo/react-svg-color#readme"
+}
