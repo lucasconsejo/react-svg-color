@@ -28,7 +28,7 @@ An example of how to use the component
 
 ## Result
 
-<img src="./.github/images/example.png" width="500" />
+<img src="https://github.com/lucasconsejo/react-svg-color/.github/images/example.png" width="500" />
 
 
 ### Props
