@@ -28,7 +28,7 @@ An example of how to use the component
 
 ## Result
 
-<img src="./.github/images/example.png" width="380" />
+<img src="./.github/images/example.png" width="500" />
 
 
 ### Props
