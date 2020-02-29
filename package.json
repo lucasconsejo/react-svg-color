@@ -1,6 +1,6 @@
 {
   "name": "react-svg-color",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Replace any colors from a svg file",
   "main": "index.js",
   "directories": {
