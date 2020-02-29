@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/npm/v/react-svg-color.svg)](https://www.npmjs.com/package/react-svg-color)
 [![NPM](https://img.shields.io/npm/dm/react-svg-color.svg)](https://www.npmjs.com/package/react-svg-color)
 
-`react-svg-color` allows you to change any color in an svg file.
+`react-svg-color` allows you to change any color in a svg file.
 
 ### Installation
 
@@ -38,6 +38,6 @@ An example of how to use the component
 | Name         | Type           | Description                                    |
 | ------------ | -------------- | ---------------------------------------------- |
 | `svg`        | svg file       | Paste your svg file                            |
-| `width`      | int            | Change svg width                               |
+| `width`      | int            | Change width                                   |
 | `colors`     | array[String]  | Color array to change the desired colors       |
 | `rotate`     | int            | Change rotation                                |
