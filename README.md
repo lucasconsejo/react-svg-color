@@ -15,23 +15,27 @@ An example of how to use the component
 
 ```jsx
     import SvgColor from 'react-svg-color'
-    import YourSvgFile from 'your-svg-file'
+    import Umbrella from 'umbrella.svg'
     
     ...
 
     <SvgColor 
-        svg={YourSvgFile} 
+        svg={Umbrella} 
         width={200} 
-        colors={["#63bf6d", "#59739e", "#ed3e3b", "#d993d5", "#e8a64f"]} 
+        colors={["#7EADCC", "#316F99", "#FFFDB8", "#FF8D78", "#FF8D78", "#7EADCC", "#B8FFF6", "#B8FFF6","#FF8D78"]}   
     />
 ```
 
+## Result
 
-### SvgColor props
+<img src="./.github/images/example.png" />
+
+
+### Props
 
 | Name         | Type           | Description                                    |
 | ------------ | -------------- | ---------------------------------------------- |
 | `svg`        | svg file       | Paste your svg file                            |
 | `width`      | int            | Change svg width                               |
 | `colors`     | array[String]  | Color array to change the desired colors       |
-
+| `rotate`     | int            | Change rotation                                |
