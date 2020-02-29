@@ -28,7 +28,9 @@ An example of how to use the component
 
 ## Result
 
-<img src="https://github.com/lucasconsejo/react-svg-color/.github/images/example.png" width="500" />
+<img src="https://raw.githubusercontent.com/lucasconsejo/react-svg-color/master/.github/images/example.png" width="500" />
+
+
 
 
 ### Props
