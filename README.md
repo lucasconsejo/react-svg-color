@@ -39,5 +39,5 @@ An example of how to use the component
 | ------------ | -------------- | ---------------------------------------------- |
 | `svg`        | svg file       | Paste your svg file                            |
 | `width`      | int            | Change width                                   |
-| `colors`     | array[String]  | Color array to change the desired colors       |
+| `colors`     | array[String]  | Color array to change the desired colors (hex) |
 | `rotate`     | int            | Change rotation                                |
