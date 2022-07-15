@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucasconsejo/react-svg-color.git"
+    "url": "git+https://github.com/binchen0802/react-svg-color.git"
   },
   "keywords": [
     "react",
@@ -25,7 +25,7 @@
   "author": "Lucas Consejo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lucasconsejo/react-svg-color/issues"
+    "url": "https://github.com/binchen0802/react-svg-color/issues"
   },
-  "homepage": "https://github.com/lucasconsejo/react-svg-color#readme"
+  "homepage": "https://github.com/binchen0802/react-svg-color#readme"
 }
